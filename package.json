@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "webpack": "webpack --progress --colors"
+  },
+  "devDependencies": {
+    "webpack": "^3.6.0",
+    "webpack-node-externals": "^1.6.0"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
